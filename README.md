@@ -24,6 +24,10 @@
 - [FamiTracker](http://famitracker.com/)
 - [NESmaker](https://www.thenew8bitheroes.com/)
 - [8bitworkshop](https://8bitworkshop.com/)
+- [TileMolester](https://github.com/toruzz/TileMolester)
+- [NES Screen Tool](https://github.com/BrokeStudio/NES-Screen-Tool)
+- [nesicide](https://github.com/christopherpow/nesicide)
+- [makechr](https://github.com/dustmop/makechr)
 
 ## Document
 
