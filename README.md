@@ -37,6 +37,7 @@
 
 - [Mesen](https://github.com/SourMesen/Mesen)
 - [FCEUX](https://fceux.com/web/home.html)
+- [JSNES](https://jsnes.org/)
 
 
 ## Hardware
