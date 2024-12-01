@@ -3,6 +3,9 @@
 ## Blog / Directory
 
 - [nesdoug](https://nesdoug.com/)
+- [shiru articles](https://shiru.untergrund.net/articles.shtml)
+- [NES研究室](https://tekepen.com/nes/)
+- [ｷﾞｺ猫でもわかるファミコンプログラミング](http://gikofami.fc2web.com/)
 
 ## Develop
 
